@@ -10,14 +10,3 @@ The project consists of a GUI (Graphical User Interface) developed using Java Sw
 * Java Programming Language
 * Java Swing (GUI toolkit)
 * Exchange Rate API
-## Installation and Usage
-To run the Currency Converter project, follow these steps:
-* Clone or download the project repository.
-* Open the project in your preferred Java IDE.
-* Run the "Main.java" file to start the project.
-* Enter the amount to convert, select the input and output currencies, and click the "Convert" button.
-## Credits
-This project was created by Joywin for St. Joseph Engineering College as a Java mini project. The project uses the Exchange Rate API to retrieve live exchange rate data. Special thanks to the creators of the Exchange Rate API for providing a free and reliable service.
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
